@@ -11,9 +11,9 @@ end
 Bypass = "death"
 loadstring(game:GetObjects("rbxassetid://5325226148")[1].Source)()
 -----OPTIONS
-local ToolName = "Back_AccAccessory" ----- the hats name on explorer/dex (not name in catalog)
+local ToolName = "Crystal_Staff" ----- the hats name on explorer/dex (not name in catalog)
 local NoSound = true ----- sound or no sound (Background Music)
-local OldModel = false ----- Use Old Model or your accessory
+local OldModel = true ----- Use Old Model or your accessory
 
 local IsDead = false
 local StateMover = true
